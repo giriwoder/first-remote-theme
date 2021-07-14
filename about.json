@@ -2,7 +2,7 @@
   "name": "Test_Theme",
   "about_url": "https://some.url.com",
   "license_url": "https://github.com/giriwoder/first-remote-theme/blob/main/LICENSE"
-   "color_schemes": {
+   "color_schemes" {
        "summer": {
     "primary": "425f87",
     "secondary": "f4ffff",
