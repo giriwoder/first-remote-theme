@@ -6,16 +6,30 @@
   height: 120px;
   width: 100%;
   background: var(--quaternary);
-  display: flex;
+  display: block;
   align-items: center;
   justify-content: center;
   margin-bottom: 1em;
   margin-top: none;
+  text-align: center;
 }
 
 .header-banner {
   font-size: 3em;
   color: var(--secondary);
+  padding-top: 10px;
+  margin-bottom: 0;
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  text-underline-position: under;
+}
+
+.header-banner-notice {
+    font-size: 1.3em;
+    color: var(--secondary);
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
 }
 
 :root {
