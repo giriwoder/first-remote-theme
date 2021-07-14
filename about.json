@@ -2,4 +2,18 @@
   "name": "Test_Theme",
   "about_url": "https://some.url.com",
   "license_url": "https://github.com/giriwoder/first-remote-theme/blob/main/LICENSE"
+   "color_schemes": {
+       "summer": {
+    "primary": "425f87";
+    "secondary": "f4ffff";
+    "tertiary": "617dd6";
+    "quaternary": "96ccbf";
+    "header_background": "b9d3f8";
+    "header_primary": "fff";
+    "highlight": "f8ceea";
+    "danger": "f86f6b";
+    "success": "fcb4b5";
+    "love": "7f9cf3";
+    }
+  }
 }
